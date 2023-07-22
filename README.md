@@ -1,1 +1,1 @@
-# movie-search-application-using-TMDb-API
+# Hulu Clone using Next.js
